@@ -57,17 +57,6 @@ Ds Correspondence adalah aplikasi berbasis web yang sepenuhnya menggunakan **Pyt
    http://127.0.0.1:5000
    ```
 
-## Struktur Proyek
-
-```
-Ds_Correspondence/
-├── static/         # File statis seperti CSS, JavaScript, dan gambar (jika ada)
-├── templates/      # File HTML yang dirender oleh Flask
-├── app.py          # File utama aplikasi Flask
-├── models.py       # Definisi model database
-├── forms.py        # Formulir dengan Flask-WTF
-├── requirements.txt# Daftar dependensi Python
-└── README.md       # Dokumentasi proyek
 ```
 
 ## Cara Penggunaan
@@ -101,9 +90,6 @@ Kontribusi sangat terbuka! Silakan fork repository ini, buat branch baru untuk f
    ```
 5. Ajukan pull request.
 
-## Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ## Kontak
 
